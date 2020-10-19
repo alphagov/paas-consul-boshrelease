@@ -7,10 +7,6 @@ consul-template/consul-template_0.12.0_linux_amd64.zip:
   size: 3163737
   object_id: 9cd3af55-8fdd-4cce-993c-cefb318fea62
   sha: ba305ed40d48b7b4eb040c8e955bdff292362091
-consul-ui/consul_0.7.5_web_ui.zip:
-  size: 253220
-  object_id: d928c064-07b9-4401-b18e-b98ece166551
-  sha: be2b4c1fc7e13f61f59dd47b5ebca9af10ebb5d4
 consul/consul_0.8.4_linux_amd64.zip:
   size: 9883784
   object_id: 31fda57f-a65f-4538-b347-5718f9c38c80
